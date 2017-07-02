@@ -1,5 +1,618 @@
 [
     {
+        "outputFile": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 40,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 36,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 36,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 36,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 36,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 36,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 36,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 36,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 36,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 38,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 38,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 36,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 36,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 36,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 36,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 36,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 36,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 36,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 36,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 38,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 38,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 37,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 37,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 37,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endColumn": 37,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 37,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 814,
+                        "endColumn": 37,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 37,
+                    "endOffset": 617
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 852,
+                        "endColumn": 37,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 622,
+                    "endColumn": 37,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 37,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 37,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 37,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 37,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 37,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 37,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 37,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 37,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 37,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 37,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 37,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 37,
+                    "endOffset": 883
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 37,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 888,
+                    "endColumn": 36,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 36,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 40,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 40,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 75,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1302,
+                        "endColumn": 75,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endColumn": 53,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 53,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 104,
+                    "endOffset": 1196
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1197,
+                        "endColumn": 104,
+                        "endOffset": 1297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1201,
+                    "endColumn": 54,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1142,
+                        "endColumn": 54,
+                        "endOffset": 1192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 38,
+                    "endOffset": 1290
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 38,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1295,
+                    "endColumn": 36,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 36,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 55,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 55,
+                        "endOffset": 1055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endColumn": 42,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 42,
+                        "endOffset": 1137
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
         "map": [
             {

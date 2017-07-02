@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/src/main/res/anim/fade_in.xml"
+    },
+    {
         "merged": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
         "source": "/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/res/anim/fade_in.xml"
     }
