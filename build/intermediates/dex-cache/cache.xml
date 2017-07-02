@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/2cf251df41de37ad4d0349aaa257103657ac75a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0789b1c63286e07cc1b6079b305a56f4fbc432fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/46384e50f9a7ea893fb5e9a633b1d598f5ff9ab0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d6843192c793ba8b9b92a16df95623607145c08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/9adc372c5e480c3279b40747aa5ee313f5bcd31a/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_677c0592689504ca2dc992ec371bce0c67c52f11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/Applications/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_a281e14d8e44de598a33ccb3ee25038469e81ac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/5edc2f67d22873bdd9071b17876f84d8f279dcac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04ed857cc3c47a22f617bb44da488dd879399ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/dd18ed0011bdfa86bc61a8b2437c616f01291b0e/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5f588e128d9f54a9cdaf8c35fa95fb4fadc36411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/64de25c1117359f40643c1fa3de15fc0d6e02c45/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c5c7b98df16e4cb5b4735d93db3e87a47cd24b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/64de25c1117359f40643c1fa3de15fc0d6e02c45/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d90ae9ad9bace06969c1c35f2df4a36ec3dba58e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/dd18ed0011bdfa86bc61a8b2437c616f01291b0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89ecf37ef29aaced8505acdebe8556d6c769c947/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_432c1e01c58e4347857eef71233c27c993dd7f1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5267270a43026ee24a2236c08cd81bc183e1699b">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_10d76a0f97cdb30fd0fe92358a01d92b5f60f2fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/9adc372c5e480c3279b40747aa5ee313f5bcd31a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca629faf686f2ca8665aa8736923938f9fa7db8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/2cf251df41de37ad4d0349aaa257103657ac75a1/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b1d1c52ee076055d24c10402aa239d1d44ff7f8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hugo/.android/build-cache/5edc2f67d22873bdd9071b17876f84d8f279dcac/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7c10dc8d6f187dc56e3d0011276c41bc019a7bc0/classes.dex" />
+    </item>
+
+</items>

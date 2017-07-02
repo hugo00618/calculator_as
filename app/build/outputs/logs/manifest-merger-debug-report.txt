@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:2:1-187:12
+	package
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:5:5-34
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:158:5-160:41
+MERGED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:37:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Hugo/.android/build-cache/d80fda92ea09c8d0935f1dcca8ed913c060b7109/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Hugo/.android/build-cache/33c6ca7c273c035845386b51f545d758980d6478/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Hugo/.android/build-cache/9008a8cf8226354be50aef8ce3c8d9c9fe896402/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Hugo/.android/build-cache/95dce3ad06c7ec161174b9616aa61720888d95c7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Hugo/.android/build-cache/0d55b6204479b2c471260579665663fb9edbd6f4/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Hugo/.android/build-cache/916d2a9c09e2440e8b51a166bd5b36f4d5f9c909/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/Hugo/.android/build-cache/d80fda92ea09c8d0935f1dcca8ed913c060b7109/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:160:9-38
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:159:9-35
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:162:5-67
+	android:name
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:162:22-64
+application
+ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:164:5-185:19
+MERGED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:39:5-43:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Hugo/.android/build-cache/d80fda92ea09c8d0935f1dcca8ed913c060b7109/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Hugo/.android/build-cache/33c6ca7c273c035845386b51f545d758980d6478/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Hugo/.android/build-cache/9008a8cf8226354be50aef8ce3c8d9c9fe896402/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Hugo/.android/build-cache/95dce3ad06c7ec161174b9616aa61720888d95c7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Hugo/.android/build-cache/0d55b6204479b2c471260579665663fb9edbd6f4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Hugo/.android/build-cache/916d2a9c09e2440e8b51a166bd5b36f4d5f9c909/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:168:9-41
+	android:allowBackup
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:166:9-35
+	android:icon
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:167:9-45
+	android:theme
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:169:9-40
+	android:name
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:165:9-71
+activity#info.hugoyu.calculator.android.activity.MainActivity
+ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:170:9-178:20
+	android:label
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:172:13-45
+	android:name
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:171:13-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:173:13-177:29
+action#android.intent.action.MAIN
+ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:174:17-69
+	android:name
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:174:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:176:17-77
+	android:name
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:176:27-74
+activity#org.acra.CrashReportDialog
+ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:179:9-184:82
+	android:excludeFromRecents
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:181:13-46
+	android:launchMode
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:183:13-48
+	android:finishOnTaskLaunch
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:182:13-46
+	android:theme
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:184:13-79
+	android:name
+		ADDED from /Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android1/app/src/main/AndroidManifest.xml:180:13-54
+activity#org.acra.dialog.CrashReportDialog
+ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:40:9-241
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:40:172-195
+	android:excludeFromRecents
+		ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:40:19-52
+	android:launchMode
+		ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:40:87-122
+	android:finishOnTaskLaunch
+		ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:40:53-86
+	android:theme
+		ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:40:196-239
+	android:name
+		ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:40:123-171
+service#org.acra.sender.SenderService
+ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:42:9-113
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:42:88-111
+	android:exported
+		ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:42:18-42
+	android:name
+		ADDED from [ch.acra:acra:4.9.2] /Users/Hugo/.android/build-cache/86965f1aba914c0f364aa84f86b62177c3ad8431/output/AndroidManifest.xml:42:43-87
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /Users/Hugo/.android/build-cache/d80fda92ea09c8d0935f1dcca8ed913c060b7109/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Hugo/.android/build-cache/33c6ca7c273c035845386b51f545d758980d6478/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Hugo/.android/build-cache/9008a8cf8226354be50aef8ce3c8d9c9fe896402/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Hugo/.android/build-cache/95dce3ad06c7ec161174b9616aa61720888d95c7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Hugo/.android/build-cache/0d55b6204479b2c471260579665663fb9edbd6f4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Hugo/.android/build-cache/916d2a9c09e2440e8b51a166bd5b36f4d5f9c909/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/Hugo/.android/build-cache/d80fda92ea09c8d0935f1dcca8ed913c060b7109/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/Hugo/.android/build-cache/d80fda92ea09c8d0935f1dcca8ed913c060b7109/output/AndroidManifest.xml:26:9-47
