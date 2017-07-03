@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="info.hugoyu.calculator.android"
-      android:versionCode="129"
-      android:versionName="1.2.5.2"
-      split="lib_slice_7_apk">
-</manifest>

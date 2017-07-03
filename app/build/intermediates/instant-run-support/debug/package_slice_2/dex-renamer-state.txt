@@ -1,4 +1,0 @@
-#Mon Jul 03 13:35:30 EDT 2017
-base.0=/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
-renamed.0=classes.dex
-file.0=/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
