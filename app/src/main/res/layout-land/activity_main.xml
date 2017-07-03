@@ -20,7 +20,7 @@
         android:id="@+id/layout_main_blackLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/black_background"
+        android:background="@color/black40"
         android:clipToPadding="false"
         android:fitsSystemWindows="true"
         android:orientation="vertical" >
@@ -34,7 +34,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginBottom="0.5dp"
-                android:background="@drawable/white5" />
+                android:background="@color/white05" />
 
             <TextView
                 android:id="@+id/txt_display"
