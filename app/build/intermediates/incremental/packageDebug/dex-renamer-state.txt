@@ -1,0 +1,7 @@
+#Mon Jul 03 13:36:11 EDT 2017
+base.0=/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_de5d8c4e14358c4ac8242c187e2d8865639dc890
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_711c7ed41dc9a955351fa89375f5302932211ac9/classes.dex
+base.1=/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_711c7ed41dc9a955351fa89375f5302932211ac9
+file.0=/Users/Hugo/Dropbox/Code/Eclipse Project/Calculator_Android/Calculator_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_de5d8c4e14358c4ac8242c187e2d8865639dc890/classes.dex
