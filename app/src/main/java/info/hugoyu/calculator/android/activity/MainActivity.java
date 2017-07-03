@@ -1,19 +1,5 @@
 package info.hugoyu.calculator.android.activity;
 
-import info.hugoyu.calculator.android.R;
-import info.hugoyu.calculator.android.calc.StdCalculator;
-import info.hugoyu.calculator.android.exception.NumberOutOfRangeException;
-import info.hugoyu.calculator.android.thread.BlurTask;
-import info.hugoyu.calculator.android.thread.WbtBooterThread;
-import info.hugoyu.calculator.android.util.FileManager;
-import info.hugoyu.calculator.android.util.FontSizeCalculator;
-import info.hugoyu.calculator.android.util.MyGestureDetector;
-import info.hugoyu.calculator.android.util.ResultManager;
-import info.hugoyu.calculator.android.util.SystemUtil;
-
-import java.io.File;
-import java.util.ArrayList;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.ClipData;
@@ -30,6 +16,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Bundle;
+import android.util.Log;
 import android.util.TypedValue;
 import android.view.Display;
 import android.view.GestureDetector;
@@ -45,6 +32,20 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import java.io.File;
+import java.util.ArrayList;
+
+import info.hugoyu.calculator.android.R;
+import info.hugoyu.calculator.android.calc.StdCalculator;
+import info.hugoyu.calculator.android.exception.NumberOutOfRangeException;
+import info.hugoyu.calculator.android.thread.BlurTask;
+import info.hugoyu.calculator.android.thread.WbtBooterThread;
+import info.hugoyu.calculator.android.util.FileManager;
+import info.hugoyu.calculator.android.util.FontSizeCalculator;
+import info.hugoyu.calculator.android.util.MyGestureDetector;
+import info.hugoyu.calculator.android.util.ResultManager;
+import info.hugoyu.calculator.android.util.SystemUtil;
 
 public class MainActivity extends Activity {
 
@@ -168,8 +169,8 @@ public class MainActivity extends Activity {
 
 		Integer VERSION_CODE = -1;
 		try {
-			VERSION_CODE = Integer.valueOf(getPackageManager().getPackageInfo(
-					getPackageName(), 0).versionCode);
+			VERSION_CODE = getPackageManager().getPackageInfo(
+					getPackageName(), 0).versionCode;
 		} catch (NameNotFoundException e1) {
 			e1.printStackTrace();
 		}
@@ -324,7 +325,7 @@ public class MainActivity extends Activity {
 				Double m = (Double) FileManager.read(cacheM);
 
 				if (m == null) {
-					m = Double.valueOf(0);
+					m = new Double(0);
 				}
 				if (inputState == LISTEN_NUM_2) {
 					proceedEqual();
@@ -369,7 +370,7 @@ public class MainActivity extends Activity {
 				Double m = (Double) FileManager.read(cacheM);
 
 				if (m == null) {
-					m = Double.valueOf(0);
+					m = new Double(0);
 				}
 				if (inputState == LISTEN_NUM_2) {
 					proceedEqual();
@@ -848,6 +849,7 @@ public class MainActivity extends Activity {
 			case CALC_METHOD_MULTI:
 				try {
 					output = StdCalculator.doMulti(number1, number2);
+					Log.d("result", String.valueOf(output));
 					number1 = output;
 
 					String display = ResultManager.testResult(output,

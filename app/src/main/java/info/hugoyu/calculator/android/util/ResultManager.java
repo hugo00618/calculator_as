@@ -1,13 +1,11 @@
 package info.hugoyu.calculator.android.util;
 
 import android.util.Log;
-import info.hugoyu.calculator.android.exception.NumberOutOfRangeException;
 
-/**
- * 
- * @author Hugo Yu
- * @version 1.0.4.1
- */
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+
+import info.hugoyu.calculator.android.exception.NumberOutOfRangeException;
 
 public class ResultManager {
 
@@ -70,6 +68,8 @@ public class ResultManager {
 			if (intPart.length() > digit) {
 				return shortenResult(String.valueOf(intPart), digit);
 			} else {
+				Log.d("result", "round: " + input);
+                Log.d("result", "digit: " + String.valueOf(digit));
 				return round(input, digit - intPart.length() - 1);
 			}
 		} else {
@@ -237,20 +237,24 @@ public class ResultManager {
 	 */
 	public static String round(String input, int targetDecimalLength) {
 		// System.out.println("round(" + input + ", " + targetDecimalLength);
+
+//		boolean negative = input.startsWith("-");
+//
+//		// remove the minus sign for negative
+//		if (negative) {
+//			input = input.substring(1);
+//		}
+
 		int indexOfDot = input.indexOf(".");
 		if (indexOfDot == -1) {
 			return input;
 		}
 
-		boolean negative = false;
+		return String.valueOf(
+		        round(Double.parseDouble(input), targetDecimalLength));
 
-		if (input.startsWith("-")) {
-			input = input.substring(1);
-			indexOfDot = input.indexOf(".");
-			negative = true;
-		}
 
-		int intPart = Integer.parseInt(input.substring(0, indexOfDot));
+		/* int intPart = Integer.parseInt(input.substring(0, indexOfDot));
 		int startIndexOfDecimal = indexOfDot + 1;
 
 		// TODO: Debug here
@@ -310,6 +314,14 @@ public class ResultManager {
 			} else {
 				return input;
 			}
-		}
+		} */
 	}
+
+    private static double round(double value, int places) {
+        if (places < 0) throw new IllegalArgumentException();
+
+        BigDecimal bd = new BigDecimal(value);
+        bd = bd.setScale(places, RoundingMode.HALF_UP);
+        return bd.doubleValue();
+    }
 }
